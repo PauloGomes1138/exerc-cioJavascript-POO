@@ -16,9 +16,16 @@ myHouse.valueOf = isSecureContext;
 
 // myHouse.semPropriedade; ou sem proprietário (risos)
 
-
-
-
-
+var myIdea = new Object (); 
+myIdea = "on focus";
+myIdea.model = "ambition";
+myIdea.time = 23; 
+myIdea.valueOf = isSecureContext; 
+ 
+var mylife = new Object (); 
+myLife = "goes on"; 
+myLife.model = "not exactly the same"; 
+myLife.time = 33; 
+myLife.valueOf = isSecureContext; 
 
 
